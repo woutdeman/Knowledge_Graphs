@@ -1,0 +1,28 @@
+{
+    "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+    },
+    "@id": "https://www.linkedin.com/in/wout-de-man-4a64032b3/",
+    "@type": ["foaf:Person", "foaf:Agent"],
+    "foaf:name": "Wout De Man",
+    "faof:topic": [
+      "https://pietercolpaert.be/teaching/kg/#2023-2024",
+      "https://www.wikidata.org/wiki/Q4027615"
+    ],
+    "faof:mbox": "wout.deman@ugent.be",
+    "foaf:age": {"@value": 22, "@type": "xsd:int"},
+    "foaf:based_near": {"@id": "https://www.wikidata.org/wiki/Q13121"},
+    "foaf:birthday": {"@value": "03-29", "@type": "xsd:date"},
+    "foaf:knows": [
+      {
+        "@id": "https://www.linkedin.com/in/alain-de-man-466a9581/",
+        "foaf:name": "Alain De Man"
+      },
+      {
+        "@id": "https://en.osm.town/@pietervdvn",
+        "foaf:name": "Pieter Vander Vennet"
+      }
+    ]
+}
+  
