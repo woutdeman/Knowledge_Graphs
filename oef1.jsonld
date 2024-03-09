@@ -16,8 +16,8 @@
     "foaf:birthday": {"@value": "03-29", "@type": "xsd:date"},
     "foaf:knows": [
       {
-        "@id": "https://www.linkedin.com/in/alain-de-man-466a9581/",
-        "foaf:name": "Alain De Man"
+        "@id": "https://razoreater.github.io/iam/#me",
+        "foaf:name": "Jens Deprez"
       },
       {
         "@id": "https://en.osm.town/@pietervdvn",
